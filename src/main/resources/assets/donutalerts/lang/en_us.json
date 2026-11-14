@@ -1,0 +1,10 @@
+{
+  "key.donutalerts.menu": "Open DonutAlerts menu",
+  "key.donutalerts.move": "Move alert boxes",
+  "key.donutalerts.auction": "Open auction menu",
+  "key.donutalerts.queue_menu": "Open gamble queue menu",
+  "key.donutalerts.queue_win": "Gamble queue: they WIN (green + payout)",
+  "key.donutalerts.queue_next": "Gamble queue: NEXT person",
+  "key.donutalerts.queue_lose": "Gamble queue: they LOSE (red 1s, then next)",
+  "category.donutalerts": "DonutAlerts"
+}
